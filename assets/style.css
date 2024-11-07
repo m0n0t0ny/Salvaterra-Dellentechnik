@@ -84,7 +84,7 @@ body {
   padding: 1.5rem 4rem;
   font-size: clamp(2rem, 4vw, 4rem);
   width: fit-content;
-  background-color: #173081;
+  background-color: #426ba5cc;
   border-radius: 0 6px 0 0;
   margin: 0;
 }
@@ -107,4 +107,7 @@ section {
 
 .chi-sono-img-1 {
   transform: translateX(-100px) translateY(75px);
+}
+.chi-sono-img-1:hover {
+  width: 100px;
 }
